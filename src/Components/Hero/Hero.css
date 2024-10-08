@@ -1,6 +1,6 @@
 .hero {
     height: 100vh;
-    background: linear-gradient(180deg, #fde1ff, #e1ffea22 60%);
+    background: linear-gradient(180deg, #ffe0f8, #ffffff22 60%);
     display: flex;
 }
 
@@ -12,12 +12,14 @@
     gap: 20px;
     padding-left: 180px;
     line-height: 1.1;
+    font-family: ArabBruD;
 }
 
 .hero-left h2 {
     color: #090909;
     font-size: 26px;
     font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .hero-left p {
@@ -49,6 +51,7 @@
     color: white;
     font-size: 22px;
     font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .hero-right {

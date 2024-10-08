@@ -11,20 +11,15 @@
     gap: 10px;
 }
 
-.nav-logo p {
-    color: #171717;
-    font-size: 38px;
-    font-weight: 600;
-}
-
 .nav-menu {
     display: flex;
     align-items: center;
     list-style: none;
     gap: 50px;
-    color: #626262;
+    color: #000000;
     font-size: 20px;
-    font-weight: 500;
+    font-weight: bold;
+    font-family: Castellar;
 }
 
 .nav-menu li {
@@ -54,11 +49,12 @@
     width: 157px;
     height: 58px;
     outline: none;
-    border: 1px solid #7a7a7a;
+    border: 1px solid #000000;
     border-radius: 75px;
     color: #515151;
     font-size: 20px;
-    font-weight: 500;
+    font-weight: bold;
+    font-family: Castellar;
     background: white;
     cursor: pointer;
 }
