@@ -4,6 +4,7 @@
     justify-content: center;
     align-items: center;
     gap: 50px;
+    padding-top: 50px;
 }
 
 .footer-logo {
@@ -13,9 +14,10 @@
 }
 
 .footer-logo p {
-    color: #383838;
-    font-size: 46px;
-    font-weight: 700;
+    color: #090909;
+    font-size: 60px;
+    font-weight: 600;
+    font-family: ArabBruD;
 }
 
 .footer-links {
